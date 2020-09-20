@@ -1,6 +1,6 @@
 title: Vishwas Gosain # your name (or website title) here
 logo: "/images/logo.png" # your photo (or logo) here
-description: | # your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
 Design Engineer, STMicroelectronics
   <br>
   B.Tech ECE, DTU 
