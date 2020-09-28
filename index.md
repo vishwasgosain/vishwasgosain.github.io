@@ -26,7 +26,7 @@ Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/demo.gif?raw=true)
+![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/adcvsl.gif?raw=true)
 
 
 ---
