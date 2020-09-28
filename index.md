@@ -10,7 +10,7 @@
 
 ### Proposed a Low Power Differential Adiabatic logic Family (A-DCVSL)
 Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch Logic), a novel low-power differential adiabatic logic at 65nm tech. node using charge recovery and split-level sinusoidal power supplies. The lower power consumption & Power Delay Product of the proposed circuit was verified by PPA(Power, Performance, Area) comparison with presently employed differential adiabatic logics.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/1a.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
