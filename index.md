@@ -14,7 +14,7 @@ Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="200" height="200" />
 
 ---
 [Project 3 Title](http://example.com/)
