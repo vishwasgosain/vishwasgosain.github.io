@@ -9,28 +9,36 @@
 ## Projects
 
 ### Proposed a Low Power Differential Adiabatic logic Family (A-DCVSL)
-Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch Logic), a novel low-power differential adiabatic logic at 65nm tech. node using charge recovery and split-level sinusoidal power supplies. The lower power consumption & Power Delay Product of the proposed circuit was verified by PPA(Power, Performance, Area) comparison with presently employed differential adiabatic logics..
+Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch Logic), a novel low-power differential adiabatic logic at 65nm tech. node using charge recovery and split-level sinusoidal power supplies. The lower power consumption & Power Delay Product of the proposed circuit was verified by PPA(Power, Performance, Area) comparison with presently employed differential adiabatic logics.
 
----
 ![heyd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/adcvsl.gif?raw=true)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="200" height="200" />
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Designed a selection unit and an ALU for adiabatic logic families
+Designed and simulated an ALU including a low power selection unit (using transmission gates) designed exclusively for adiabatic logic families. A 64.3% and 57.5% maximum reduction in power dissipation and PDP respectively were achieved compared to traditional selection unit implementation at 180nm tech. node.
 
----
-![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/adcvsl.gif?raw=true)
-
+![heydd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/alu.gif?raw=true)
 
 ---
 
+### Semiconductor fabrication lab, Indian Space & Research Organisation (ISRO)
+Worked in photolithography section, reduced the line width and achieved critical dimension as low as 110nm with a tool of 180nm resolution in KrF lithography while retaining original L/S width. This was accomplished using Phase Shift Masks and double exposure resolution enhancement technique. Also worked on optical and scanning electron microscope for layout misregistration and critical dimension measurement for error detection and correction.
+<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/isro.png?raw=true"/>
+
+---
+### Unmanned Ground Vehicle (UGV) DTU
+
+Founded and led a team of 6 to design a UGV under the Robot Operating System framework using LIDAR which navigated through an obstacle course in International Ground Vehicles competition (Michigan, USA). Responsible for team operations, raising funds along with contributing to computer vision and embedded systems segment.
+
+![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ugv.gif?raw=true)
+
+
+---
+
 
 
 
 ---
 
-<!-- Remove above link if you don't want to attibute -->
+
