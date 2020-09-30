@@ -23,8 +23,13 @@ Designed and simulated an ALU including a low power selection unit (using transm
 ---
 
 ### Semiconductor fabrication lab, Indian Space & Research Organisation (ISRO)
-Worked in photolithography section, reduced the line width and achieved critical dimension as low as 110nm with a tool of 180nm resolution in KrF lithography while retaining original L/S width. This was accomplished using Phase Shift Masks and double exposure resolution enhancement technique. Also worked on optical and scanning electron microscope for layout misregistration and critical dimension measurement for error detection and correction.
+Worked in photolithography section, reduced the line width and achieved critical dimension as low as 110nm with a tool of 180nm resolution in KrF lithography while retaining original L/S width. This was accomplished using Phase Shift Masks and double exposure resolution enhancement technique. 
 <img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/isro.png?raw=true"/>
+
+### Look Ahead Carry Adder using Diode Free Adiabatic Logic
+Implemented a look ahead adder using low power DFAL family. Performance of the circuit was compared with CMOS technology at 180nm tech. node across varying frequency and load capacitance. Maximum Power reduction of 45.7% and maximum Power Delay Product reduction of 31.4% was achieved using the proposed implementation.
+
+![heyddd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/dfal.gif?raw=true)
 
 ---
 ### Unmanned Ground Vehicle (UGV) DTU
@@ -33,11 +38,12 @@ Founded and led a team of 6 to design a UGV under the Robot Operating System fra
 
 ![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ugv.gif?raw=true)
 
-
 ---
 
+### Communication glove for people with speech disability
+Semi-finalist in Texas Instruments Innovation Challenge: Built a novel low-cost glove that facilitated quick and fluent communication for people with speech-disorder without need of sign language’s knowledge.
 
-
+![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ti glove.gif?raw=true)
 
 ---
 
