@@ -43,7 +43,7 @@ Founded and led a team of 6 to design a UGV under the Robot Operating System fra
 ### Communication glove for people with speech disability
 Semi-finalist in Texas Instruments Innovation Challenge: Built a novel low-cost glove that facilitated quick and fluent communication for people with speech-disorder without need of sign language’s knowledge.
 
-![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ti glove.gif?raw=true)
+![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ti.gif?raw=true)
 
 ---
 
