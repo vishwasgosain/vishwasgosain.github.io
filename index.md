@@ -26,11 +26,16 @@ Designed and simulated an ALU including a low power selection unit (using transm
 Worked in photolithography section, reduced the line width and achieved critical dimension as low as 110nm with a tool of 180nm resolution in KrF lithography while retaining original L/S width. This was accomplished using Phase Shift Masks and double exposure resolution enhancement technique. 
 <img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/isro.png?raw=true"/>
 
+---
+
 ### Look Ahead Carry Adder using Diode Free Adiabatic Logic
 Implemented a look ahead adder using low power DFAL family. Performance of the circuit was compared with CMOS technology at 180nm tech. node across varying frequency and load capacitance. Maximum Power reduction of 45.7% and maximum Power Delay Product reduction of 31.4% was achieved using the proposed implementation.
 
 ![heyddd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/dfal.gif?raw=true)
 
+### On-board precise setup-hold time measurement using FPGA 
+In this paper, a versatile solution for testing setup and hold time of critical paths in digital designs is proposed using FPGA. Using buffers, the proposed setup provides flexibility to maneuver the step size of the test signal’s delay using coarse and fine delay for evaluating the setup and hold time, which is lucrative in testing devices with higher variations in timing parameters accurately.
+<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/isro.png?fpga.png"/>
 ---
 ### Unmanned Ground Vehicle (UGV) DTU
 
@@ -45,5 +50,9 @@ Semi-finalist in Texas Instruments Innovation Challenge: Built a novel low-cost 
 ![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ti.gif?raw=true)
 
 ---
+
+### Smart dustbin with waste segregation
+The Smart dustbin was a Raspberry-Pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin by making use of image processing algorithms. My contribution involved developing the detection algorithms, human machine interface and firmware for the embedded systems.The system was tested at various colleges, malls, and public places. The initiative was covered by media agencies such as DuBeat, Your Story and ZeeTv.
+
 
 
