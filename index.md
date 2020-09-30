@@ -33,10 +33,14 @@ Implemented a look ahead adder using low power DFAL family. Performance of the c
 
 ![heyddd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/dfal.gif?raw=true)
 
-### On-board precise setup-hold time measurement using FPGA 
-In this paper, a versatile solution for testing setup and hold time of critical paths in digital designs is proposed using FPGA. Using buffers, the proposed setup provides flexibility to maneuver the step size of the test signal’s delay using coarse and fine delay for evaluating the setup and hold time, which is lucrative in testing devices with higher variations in timing parameters accurately.
-<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/isro.png?fpga.png"/>
 ---
+
+### On-board precise setup-hold time measurement using FPGA 
+In this project, a versatile solution for testing setup and hold time of critical paths in digital designs was proposed using FPGA. Using buffers, the proposed setup provides flexibility to maneuver the step size of the test signal’s delay using coarse and fine delay for evaluating the setup and hold time, which is lucrative in testing devices with higher variations in timing parameters accurately.
+<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/fpga.png?raw=true"/>
+
+---
+
 ### Unmanned Ground Vehicle (UGV) DTU
 
 Founded and led a team of 6 to design a UGV under the Robot Operating System framework using LIDAR which navigated through an obstacle course in International Ground Vehicles competition (Michigan, USA). Responsible for team operations, raising funds along with contributing to computer vision and embedded systems segment.
