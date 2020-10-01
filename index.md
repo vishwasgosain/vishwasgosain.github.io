@@ -39,7 +39,7 @@ Implemented a look ahead adder using low power DFAL family. Performance of the c
 In this project, a versatile solution for testing setup and hold time of critical paths in digital designs was proposed using FPGA. Using buffers, the proposed setup provides flexibility to maneuver the step size of the test signal’s delay using coarse and fine delay for evaluating the setup and hold time, which is lucrative in testing devices with higher variations in timing parameters accurately.
 
 
-<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/sta2.png?raw=true"/>
+<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/sta.png?raw=true"/>
 
 ---
 
