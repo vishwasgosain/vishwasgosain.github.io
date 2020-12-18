@@ -16,7 +16,7 @@ Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch 
 ---
 
 ### Designed a selection unit and an ALU for adiabatic logic families
-Designed and simulated an ALU including a low power selection unit (using transmission gates) designed exclusively for adiabatic logic families. A 64.3% and 57.5% maximum reduction in power dissipation and PDP respectively were achieved compared to traditional selection unit implementation at 180nm tech. node.
+Designed and simulated an ALU including a low power selection unit (using transmission gates) designed exclusively for adiabatic logic families. A 64.3% and 57.5% maximum reduction in power dissipation and Power Delay Product (PDP) respectively were achieved compared to traditional selection unit implementation at 180nm tech. node.
 
 ![heydd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/alu.gif?raw=true)
 
