@@ -27,7 +27,7 @@ Designed and simulated an ALU including a low power selection unit (using transm
 ---
 
 ### Semiconductor fabrication lab, Indian Space & Research Organisation (ISRO)
-Worked in photolithography section, reduced the line width and achieved critical dimension as low as 110nm with a tool of 180nm resolution in KrF lithography while retaining original L/S width. This was accomplished using Phase Shift Masks and double exposure resolution enhancement technique. 
+Worked in photolithography section, reduced the line width and achieved Critical Dimension reduction of 34% in KrF lithography while retaining original L/S width. This was accomplished using Phase Shift Masks and double exposure resolution enhancement technique. 
 <img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/isro.png?raw=true"/>
 
 ---
