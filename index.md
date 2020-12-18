@@ -5,10 +5,11 @@
 - [Gupta, K., Gosain, V., Pandey, N., “Adiabatic Differential Cascode Voltage Switch Logic (A-DCVSL) for low power applications”, Elsevier’s Journal of King Saud University - Engineering Sciences, 2020, ISSN 1018-3639.](https://www.sciencedirect.com/science/article/pii/S1018363920303214)
 - [Gosain, V., Grover, V., Pandey, N., Gupta K., "Look ahead carry adder using diode free adiabatic logic family", IEEE 2nd International Conference on Telecommunication and Networks (TEL-NET), Noida, 2017, pp. 1-4](https://ieeexplore.ieee.org/document/8343535)
 - [Grover, V., Gosain, V., Pandey, N., Gupta K., "Arithmetic Logic Unit Using Diode Free Adiabatic Logic and Selection Unit for Adiabatic Logic Family", IEEE 5th International Conference on Signal Processing and Integrated Networks, SPIN 2018, pp. 777-781.](https://ieeexplore.ieee.org/document/8474277)
-- [Patel, A., Gosain, V., Mohal, R., Kumar, J., Nov 2020 (Accepted) “FPGA based low-cost portable tester with on-board supplies”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1VYY7KPoPc7CSHltufUhi3ierwxsu7iJm/view?usp=sharing)
-- [Patel, A., Gosain, V., Nov 2020, (Accepted) “On-Board Setup-Hold Time Measurement using FPGA Based Adaptive Methodology”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1su02_c185ozNBOnf9pZ00MRfLflcoQdR/view?usp=sharing)
+- [Patel, A., Gosain, V., Mohal, R., Kumar, J., Nov 2020 (Accepted) “FPGA based low-cost portable tester with on-board supplies”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1VYY7KPoPc7CSHltufUhi3ierwxsu7iJm/view?usp=sharing)** 
+- [Patel, A., Gosain, V., Nov 2020, (Accepted) “On-Board Setup-Hold Time Measurement using FPGA Based Adaptive Methodology”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1su02_c185ozNBOnf9pZ00MRfLflcoQdR/view?usp=sharing)**
 - [Gosain, V., Patel, A., 2021 (Under review) “High-speed FPGA based tester with expandable memory and multiple test bench support”, 29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2021).](https://drive.google.com/file/d/1pAgYkJGDGnscHdDqymU6V7qeNwV58Q3u/view?usp=sharing)
 
+** Presented on Nov,2020. They will take time to appear on IEEE Xplore. [Presentation Certificates avalailable here](https://drive.google.com/file/d/1szzyV7or_XKiIf60KEtDEUcgiHn-L8Fe/view?usp=sharing)
 ## Projects
 
 ### Proposed a Low Power Differential Adiabatic logic Family (A-DCVSL)
