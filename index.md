@@ -7,7 +7,7 @@
 - [Grover, V., Gosain, V., Pandey, N., Gupta K., "Arithmetic Logic Unit Using Diode Free Adiabatic Logic and Selection Unit for Adiabatic Logic Family", IEEE 5th International Conference on Signal Processing and Integrated Networks, SPIN 2018, pp. 777-781.](https://ieeexplore.ieee.org/document/8474277)
 - [Patel, A., Gosain, V., Mohal, R., Kumar, J., Nov 2020 (Accepted) “FPGA based low-cost portable tester with on-board supplies”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1VYY7KPoPc7CSHltufUhi3ierwxsu7iJm/view?usp=sharing)
 - [Patel, A., Gosain, V., Nov 2020, (Accepted) “On-Board Setup-Hold Time Measurement using FPGA Based Adaptive Methodology”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1su02_c185ozNBOnf9pZ00MRfLflcoQdR/view?usp=sharing)
--[Gosain, V., Patel, A., 2021 (Under review) “High-speed FPGA based tester with expandable memory and multiple test bench support”, 29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2021).](https://drive.google.com/file/d/1pAgYkJGDGnscHdDqymU6V7qeNwV58Q3u/view?usp=sharing)
+- [Gosain, V., Patel, A., 2021 (Under review) “High-speed FPGA based tester with expandable memory and multiple test bench support”, 29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2021).](https://drive.google.com/file/d/1pAgYkJGDGnscHdDqymU6V7qeNwV58Q3u/view?usp=sharing)
 
 ## Projects
 
