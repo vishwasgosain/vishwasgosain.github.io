@@ -9,7 +9,7 @@
 - [Patel, A., Gosain, V., Nov 2020, (Accepted) “On-Board Setup-Hold Time Measurement using FPGA Based Adaptive Methodology”, IEEE 4th International Conference on Electronics, Communication and Aerospace Technology, ICECA.](https://drive.google.com/file/d/1su02_c185ozNBOnf9pZ00MRfLflcoQdR/view?usp=sharing)**
 - [Gosain, V., Patel, A., 2021 (Under review) “High-speed FPGA based tester with expandable memory and multiple test bench support”, 29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2021).](https://drive.google.com/file/d/1pAgYkJGDGnscHdDqymU6V7qeNwV58Q3u/view?usp=sharing)
 
-** Presented on Nov,2020. They will take time to appear on IEEE Xplore. [Presentation Certificates avalailable here](https://drive.google.com/file/d/1szzyV7or_XKiIf60KEtDEUcgiHn-L8Fe/view?usp=sharing)
+** Presented on Nov,2020. They will take time to appear on IEEE Xplore. [Presentation Certificates available here](https://drive.google.com/file/d/1szzyV7or_XKiIf60KEtDEUcgiHn-L8Fe/view?usp=sharing)
 ## Projects
 
 ### Proposed a Low Power Differential Adiabatic logic Family (A-DCVSL)
