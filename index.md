@@ -4,7 +4,7 @@
 ## Publications
 - [Gupta, K., Gosain, V., Pandey, N., “Adiabatic Differential Cascode Voltage Switch Logic (A-DCVSL) for low power applications”, Elsevier’s Journal of King Saud University - Engineering Sciences, 2020, ISSN 1018-3639.](https://www.sciencedirect.com/science/article/pii/S1018363920303214)
 - [Gosain, V., Grover, V., Pandey, N., Gupta K., "Look ahead carry adder using diode free adiabatic logic family", IEEE 2nd International Conference on Telecommunication and Networks (TEL-NET), Noida, 2017, pp. 1-4](https://ieeexplore.ieee.org/document/8343535)
-- [V. Grover, V. Gosain, N. Pandey, K. Gupta "Arithmetic Logic Unit Using Diode Free Adiabatic Logic and Selection Unit for Adiabatic Logic Family", IEEE 5th International Conference on Signal Processing and Integrated Networks, SPIN 2018, pp. 777-781.](https://ieeexplore.ieee.org/document/8474277)
+- [Grover, V., Gosain, V., Pandey, N., Gupta K., "Arithmetic Logic Unit Using Diode Free Adiabatic Logic and Selection Unit for Adiabatic Logic Family", IEEE 5th International Conference on Signal Processing and Integrated Networks, SPIN 2018, pp. 777-781.](https://ieeexplore.ieee.org/document/8474277)
 
 ## Projects
 
