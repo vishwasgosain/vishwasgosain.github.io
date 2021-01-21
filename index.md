@@ -40,7 +40,15 @@ Implemented a look ahead adder using low power DFAL family. Performance of the c
 
 ---
 
-### On-board precise setup-hold time measurement using FPGA  |  [Detailed Report](https://drive.google.com/file/d/1su02_c185ozNBOnf9pZ00MRfLflcoQdR/view?usp=sharing)
+### FPGA based Low-cost Portable tester with On-board Supplies  |  [Detailed Report](https://drive.google.com/file/d/1sOR-VZ8sLNYNL18x0776cwBkrEBwmcoW/view?usp=sharing)
+Designed and implemented a low-cost portable tester for validation of digital test chips as an alternative to expensive Automatic Test Equipment (ATE) for low to medium end applications. The platform is easy to use with user configurable portable supplies controlled by STM32 microcontroller and the digital lines can be dynamically controlled using FPGA.
+
+
+
+
+
+
+### On-board precise setup-hold time measurement using FPGA  |  [Detailed Report](https://drive.google.com/file/d/1QK_d9TZDDmADoHc-qSRdei5Eh3sA75IU/view?usp=sharing)
 In this project, a versatile solution for testing setup and hold time of critical paths in digital designs was proposed using FPGA. Using buffers, the proposed setup provides flexibility to maneuver the step size of the test signal’s delay using coarse and fine delay for evaluating the setup and hold time, which is lucrative in testing devices with higher variations in timing parameters accurately.
 
 
@@ -48,7 +56,7 @@ In this project, a versatile solution for testing setup and hold time of critica
 
 ---
 
-### Unmanned Ground Vehicle (UGV) DTU
+### Unmanned Ground Vehicle (UGV) DTU  |  [Detailed Report](https://drive.google.com/file/d/11c6TPbt4WZ2IRkqZOLFOiLnYOgcrbuar/view?usp=sharing)
 
 Founded and led a team of 6 to design a UGV under the Robot Operating System framework using LIDAR which navigated through an obstacle course in International Ground Vehicles competition (Michigan, USA). Responsible for team operations, raising funds along with contributing to computer vision and embedded systems segment.
 
