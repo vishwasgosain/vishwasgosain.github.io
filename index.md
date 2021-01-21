@@ -43,6 +43,9 @@ Implemented a look ahead adder using low power DFAL family. Performance of the c
 ### FPGA based Low-cost Portable tester with On-board Supplies  |  [Detailed Report](https://drive.google.com/file/d/1sOR-VZ8sLNYNL18x0776cwBkrEBwmcoW/view?usp=sharing)
 Designed and implemented a low-cost portable tester for validation of digital test chips as an alternative to expensive Automatic Test Equipment (ATE) for low to medium end applications. The platform is easy to use with user configurable portable supplies controlled by STM32 microcontroller and the digital lines can be dynamically controlled using FPGA.
 
+<img src="https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/fpga.png?raw=true"/>
+
+---
 
 
 
