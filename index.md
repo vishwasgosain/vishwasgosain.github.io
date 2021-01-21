@@ -64,7 +64,7 @@ Semi-finalist in Texas Instruments Innovation Challenge: Built a novel low-cost 
 
 ### Smart dustbin with waste segregation
 The Smart dustbin was a Raspberry-Pi based system to classify waste objects and reward the user with credits based on what is dropped in the bin by making use of image processing algorithms. My contribution involved developing the detection algorithms, human machine interface and firmware for the embedded systems.
-Featured article in [IPositive](http://ipositive.in/2015/09/07/throw-the-waste-and-get-rewarded/)
+Featured article in [IPositive](http://ipositive.in/2015/09/07/throw-the-waste-and-get-rewarded/) and 
 [Saying Truth](https://www.sayingtruth.com/get-rewarded-recycling-waste/)
 ![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/weconvert.gif?raw=true)
 
