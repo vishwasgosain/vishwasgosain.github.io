@@ -12,14 +12,14 @@
 
 ## Projects
 
-### Proposed a Low Power Differential Adiabatic logic Family (A-DCVSL)
+### Proposed a Low Power Differential Adiabatic logic Family (A-DCVSL)  [Detailed Report](https://drive.google.com/file/d/1hdLGAh5mU0Q3GMi5U55_LXmHphcl5Vec/view?usp=sharing)
 Designed and implemented A-DCVSL (Adiabatic Differential Cascode Voltage Switch Logic), a novel low-power differential adiabatic logic at 65nm tech. node using charge recovery and split-level sinusoidal power supplies. The lower power consumption & Power Delay Product of the proposed circuit was verified by PPA(Power, Performance, Area) comparison with presently employed differential adiabatic logics.
 
 ![heyd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/adcvsl.gif?raw=true)
 
 ---
 
-### Designed a selection unit and an ALU for adiabatic logic families
+### Designed a selection unit and an ALU for adiabatic logic families  [Detailed Report](https://drive.google.com/file/d/1h_Xug5AISqqaT6qfltJXsOMpmJbJmmSR/view?usp=sharing)
 Designed and simulated an ALU including a low power selection unit (using transmission gates) designed exclusively for adiabatic logic families. A 64.3% and 57.5% maximum reduction in power dissipation and Power Delay Product (PDP) respectively were achieved compared to traditional selection unit implementation at 180nm tech. node.
 
 ![heydd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/alu.gif?raw=true)
@@ -32,14 +32,14 @@ Worked in photolithography section, reduced the line width and achieved Critical
 
 ---
 
-### Look Ahead Carry Adder using Diode Free Adiabatic Logic
+### Look Ahead Carry Adder using Diode Free Adiabatic Logic  [Detailed Report](https://drive.google.com/file/d/1cH0pE8dOjilJZnOxzqNbVQ4cEMfUwHle/view?usp=sharing)
 Implemented a look ahead adder using low power DFAL family. Performance of the circuit was compared with CMOS technology at 180nm tech. node across varying frequency and load capacitance. Maximum Power reduction of 45.7% and maximum Power Delay Product reduction of 31.4% was achieved using the proposed implementation.
 
 ![heyddd](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/dfal.gif?raw=true)
 
 ---
 
-### On-board precise setup-hold time measurement using FPGA 
+### On-board precise setup-hold time measurement using FPGA  [Detailed Report](https://drive.google.com/file/d/1su02_c185ozNBOnf9pZ00MRfLflcoQdR/view?usp=sharing)
 In this project, a versatile solution for testing setup and hold time of critical paths in digital designs was proposed using FPGA. Using buffers, the proposed setup provides flexibility to maneuver the step size of the test signal’s delay using coarse and fine delay for evaluating the setup and hold time, which is lucrative in testing devices with higher variations in timing parameters accurately.
 
 
@@ -55,7 +55,7 @@ Founded and led a team of 6 to design a UGV under the Robot Operating System fra
 
 ---
 
-### Communication glove for people with speech disability
+### Communication glove for people with speech disability  
 Semi-finalist in Texas Instruments Innovation Challenge: Built a novel low-cost glove that facilitated quick and fluent communication for people with speech-disorder without need of sign language’s knowledge.
 ![hey](https://github.com/vishwasgosain/vishwasgosain.github.io/blob/master/images/ti.gif?raw=true)
 
